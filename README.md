@@ -1,4 +1,4 @@
- # 30130_weixin130综合文化信息管理系统-微信端.mp4
+ # 30130_weixin综合文化信息管理系统
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=30130
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=30130
  
  
  * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/297%E5%A5%97-2-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BD%95%E5%83%8F/30130_weixin130%E7%BB%BC%E5%90%88%E6%96%87%E5%8C%96%E4%BF%A1%E6%81%AF%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F-%E5%BE%AE%E4%BF%A1%E7%AB%AF.mp4
